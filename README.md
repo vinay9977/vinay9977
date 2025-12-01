@@ -6,7 +6,7 @@ I'm a backend & cloud engineer with experience building **scalable, production-g
 across automotive, healthcare, and fintech domains.  
 
 I specialize in **clean architecture, high-performance backend services, cloud platforms, and LLM-powered systems**.  
-Currently pursuing **MS in Computer Science (Graduating Dec 2025)**.
+ **MS in Computer Science From Purdue University **.
 
 ---
 
@@ -69,10 +69,7 @@ A full production-style code-review intelligence system using LLMs to analyze Gi
 
 ---
 
-# 📊 GitHub Activity (Premium Visual View)
-
-> This section highlights engineering domains rather than daily commit noise.  
-> It removes streaks & contribution counts to provide a clean, senior-level presentation.
+# 📊 GitHub Activity 
 
 ### 📘 Profile Overview  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay9977&theme=vue)
@@ -86,7 +83,7 @@ A full production-style code-review intelligence system using LLMs to analyze Gi
 ### 🧠 Productivity by Time  
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinay9977&theme=vue)
 
-### ⚙️ Engineering Metrics (Non-Numeric)  
+### ⚙️ Engineering Metrics 
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinay9977&theme=vue)
 
 ---
@@ -94,4 +91,4 @@ A full production-style code-review intelligence system using LLMs to analyze Gi
 # 📫 Connect With Me  
 🌐 Portfolio: https://vinay9977.github.io/vinay-portfolio  
 💼 LinkedIn: https://www.linkedin.com/in/vinay-korrapati7777  
-📧 Email: *your email here*
+📧 Email: korrapativinay7777@gmail.com
