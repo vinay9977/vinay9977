@@ -1,137 +1,99 @@
 # Hi, I'm Vinay 👋  
-### Backend • Cloud • Distributed Systems Engineer  
-Java | Python | Spring Boot | FastAPI | Microservices | Cloud | AI/LLM Integrations
+### Backend • Cloud • AI Engineer  
+**Java | Python | Spring Boot | FastAPI | Distributed Systems | LLM Integrations**
 
-I’m a Software Engineer with **enterprise-level experience** building scalable, high-performance backend systems for **automotive, healthcare, and financial platforms**.  
-I focus on **clean engineering**, **strong coding fundamentals**, and **practical system design** that works in real-world production environments.
+I'm a backend & cloud engineer with experience delivering **production-grade systems** across  
+**automotive, healthcare, and fintech** domains.  
 
-🎓 **MS in Computer Science from Purdue University**  
-💼  
-🧩 Actively looking for **Software Engineer roles** (USA – remote/hybrid/onsite)
-
----
-
-## 🚀 What I’m Really Good At
-
-### **Backend Engineering**
-- Designing and building **REST APIs & microservices** with Java (Spring Boot) + Python (FastAPI)
-- High-performance, scalable architecture  
-- Async processing, batching, caching, pagination, rate limiting  
-- Writing clean, modular, testable code following OOP, SOLID, and design patterns  
-
-### **Cloud & Infrastructure**
-- AWS, GCP, Azure – compute, storage, managed DBs, IAM, serverless  
-- **CI/CD** with GitHub Actions, Jenkins, Azure DevOps  
-- Docker, containerized deployments, Linux fundamentals  
-
-### **Data, Messaging & Integrations**
-- SQL optimization, stored procedures, normalization, indexing  
-- ETL pipelines (Python / Java) for large datasets  
-- Messaging: Kafka, IBM MQ, Pub/Sub  
-- Third-party integrations (APIs, OAuth, authentication, secrets mgmt)
-
-### **AI / LLM Engineering**
-- Integrating OpenAI models into backend services  
-- Prompt engineering, safety, response structuring  
-- Building LLM-powered developer tools (CodeCriticAI)  
-- Using embeddings, retrieval, fine-grained evaluation  
-
-### **System Design & Architecture**
-- Event-driven & microservice architectures  
-- Horizontal scaling, load balancing, caching strategies  
-- Distributed data patterns (partitioning, replication, consistency)  
-- Observability (logs, metrics, tracing)
+I focus on **scalable backend engineering**, **clean architecture**, and **practical system design** that solves real-world problems.  
+Currently pursuing **MS in Computer Science (Graduating Dec 2025)**.
 
 ---
 
-## 🛠 Tech Stack (Full Summary)
+## 🚀 Core Engineering Strengths
 
-**Languages**  
-Java, Python, JavaScript/TypeScript, SQL, Bash
-
-**Backend**  
-Spring Boot, FastAPI, Flask, Node.js/Express
-
-**Databases**  
-PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, BigQuery
-
-**Cloud**  
-AWS: Lambda, EC2, S3, RDS, IAM  
-GCP: GCE, GCS, Pub/Sub, BigQuery  
-Azure: Functions, App Services, Cosmos DB
-
-**DevOps & Tools**  
-Git, Docker, GitHub Actions, Jenkins, Terraform (basics), Linux, SonarQube
-
-**Messaging & Streaming**  
-Kafka, IBM MQ, Pub/Sub
-
-**Other**  
-Design Patterns, UML, Unit Testing, Integration Testing, OAuth, JWT, Swagger/OpenAPI
+- **Backend Engineering:** Spring Boot, FastAPI, microservices, REST APIs, async workflows  
+- **AI + Backend Fusion:** LLM integrations, OpenAI workflows, intelligent automation  
+- **Cloud Engineering:** AWS, GCP, Azure — compute, storage, databases, serverless  
+- **Data Engineering:** SQL optimization, ETL pipelines, messaging (Kafka, MQ, Pub/Sub)  
+- **System Design:** Scalability, caching, rate limiting, retries, distributed patterns  
+- **Software Craftsmanship:** Clean code, SOLID, design patterns, testing, modularity  
 
 ---
 
-## ⭐ Featured Projects (Production-Style)
+# ⭐ Featured Work
 
-### 🔹 **CodeCriticAI – AI Code Review Platform**  
-_AI-powered tool that reviews GitHub pull requests, flags issues, and suggests improvements._  
-- Analyzes diffs, detects code smells, security problems, performance bottlenecks  
-- Integrates directly with GitHub OAuth + GitHub PR APIs  
-- Built with production-grade modular architecture  
-**Tech:** FastAPI, OpenAI, GitHub OAuth, PostgreSQL, Docker, Render, Vercel
+## 🔥 CodeCriticAI – AI-Powered Code Review System  
+**Repo:** https://github.com/vinay9977/CodeCriticAI  
 
----
+A production-style code review platform using LLMs to analyze GitHub pull requests and generate high-quality insights.
 
-### 🔹 **InsightFlow – Analytics & ETL Platform**  
-_End-to-end data pipeline + dashboard for real-time insights._  
-- Data ingestion → transformation → visualization  
-- Implements scheduling, async jobs, caching, pagination  
-- Focus on backend performance  
-**Tech:** Python, ETL, Node.js/Express, React, SQL
+**Highlights:**  
+- Reviews diffs + PRs using intelligent LLM prompts  
+- Suggests refactors, optimization, code smell fixes  
+- Detects security flaws & performance bottlenecks  
+- OAuth-secured GitHub integration  
+- Clean modular FastAPI backend  
+
+**Tech:** FastAPI, Python, OpenAI, GitHub OAuth, PostgreSQL, Docker, Render, Vercel
 
 ---
 
-### 🔹 **Enterprise Microservices (Practice Repo)**  
-_A collection of backend microservices demonstrating real enterprise patterns._  
-- Service discovery, API gateways, modular domain-driven design  
-- Messaging with Kafka / MQ  
-- Error handling, rate limiting, retries, circuit breaker patterns  
-**Tech:** Java, Spring Boot, Kafka, Redis, REST, Docker
+## 📊 InsightFlow – Data Analytics & ETL Platform  
+**Repo:** https://github.com/vinay9977/InsightFlow  
+
+A full-stack analytics application that performs **data ingestion → processing → insights → visualization**.
+
+**Highlights:**  
+- Backend-driven analytics pipeline  
+- ETL data processing + caching + async tasks  
+- Frontend dashboard with interactive insights  
+
+**Tech:** Python, Node.js, React, SQL, APIs
 
 ---
 
-### 🔹 **Elevator System – Design & Simulation**  
-_Clean OOP + design patterns for a real-world scheduling system._  
-- Multiple elevators, load-based requests, priority logic  
-- Demonstrates strong system design fundamentals  
-**Tech:** Java, OOP, SOLID, Strategy/Observer patterns
-
----
-
-### 🔹 **Portfolio Website**  
-_Professional site with resume, projects, and contact links._  
+## 🌐 Portfolio Website  
+**Repo:** https://github.com/vinay9977/vinay-portfolio  
 **Live:** https://vinay9977.github.io/vinay-portfolio/  
-**Tech:** HTML, CSS, JS
 
 ---
 
-## 📚 Currently Learning / Deep Diving
+# 🧠 Tech Stack Overview
 
-- Scalable storage systems (helpful for Uber Storage Platform interview)  
-- Distributed systems internals (consensus, replication, CAP, quorum)  
-- Advanced JVM internals (GC tuning, JIT, heap optimization)  
-- LLM agents + Retrieval-Augmented Generation (RAG)
-
----
-
-## 📈 GitHub Overview
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay9977&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9977&layout=compact&hide_border=true)
+**Backend:** Java, Python, Spring Boot, FastAPI  
+**Cloud:** AWS, GCP, Azure  
+**Data:** PostgreSQL, MySQL, MongoDB, Redis, BigQuery  
+**Messaging:** Kafka, IBM MQ, Pub/Sub  
+**DevOps:** GitHub Actions, Jenkins, Docker  
+**AI/LLM:** OpenAI API, embeddings, prompt engineering  
+**Architecture:** Microservices, distributed systems, caching, rate limiting  
 
 ---
 
-## 📫 Connect With Me  
+# 📊 GitHub Performance Dashboard  
+
+### 🔥 Consistent Activity (Streak Overview)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vinay9977&theme=default&hide_border=true)
+
+### 📈 Productivity Details  
+![Stats](https://github-readme-stats.vercel.app/api?username=vinay9977&show_icons=true&theme=default&hide_border=true)
+
+### 🧠 Productivity by Time  
+![Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinay9977&theme=vue)
+
+### 🗂 Languages Used  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinay9977&theme=vue)
+
+### 📦 Repo Language Breakdown  
+![Repo Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinay9977&theme=vue)
+
+### 📅 Overall GitHub Stats  
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinay9977&theme=vue)
+
+---
+
+# 📫 Connect With Me  
 🌐 Portfolio: https://vinay9977.github.io/vinay-portfolio  
 💼 LinkedIn: https://www.linkedin.com/in/vinay-korrapati7777  
 📧 Email: *your email here*
